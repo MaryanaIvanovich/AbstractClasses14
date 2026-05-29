@@ -31,6 +31,7 @@ namespace AbstractClasses14
             dog.ShowInfo();
             Cat cat2 = new Cat("Лиска");
             cat2.ShowInfo();
+            Console.ReadKey();
         }
     }
 }
